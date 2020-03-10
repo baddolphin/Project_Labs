@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     # 'lab_1.apps.Lab1Config',
     'lab_1'
+    'lab_11'
 ]
 
 MIDDLEWARE = [
